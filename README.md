@@ -1,14 +1,13 @@
 ### Hi there 👋
 
-![](https://img.shields.io/badge/python-3.9-orange?style=for-the-badge&logo=python&logoColor=orange)
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoshenwei)
+
 
 **Social Media:**
 
 [![GitHub](icons/github.png)](https://github.com/xiaoshenwei)
-[![Email](icons/email.png)](https://github.com/xiaoshenwei)
-[![stackoverflow](icons/stack_overflow.png)](https://stackoverflow.com/users/19499374/xiaoshenwei)
+[![Email](icons/email.png)](mailto:xiaoshenwei96@163.com)
+[![stackoverflow](icons/stack-overflow.png)](https://stackoverflow.com/users/19499374/xiaoshenwei)
 
 **Currently working with:**
 
@@ -51,3 +50,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaoshenwei)
