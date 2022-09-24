@@ -7,6 +7,8 @@
 **Social Media:**
 
 [![GitHub](icons/github.png)](https://github.com/xiaoshenwei)
+[![Email](icons/email.png)](https://github.com/xiaoshenwei)
+[![stackoverflow](icons/stack_overflow.png)](https://stackoverflow.com/users/19499374/xiaoshenwei)
 
 **Currently working with:**
 
