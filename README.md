@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm xiaoshenwei</h1>
 
-[![skills](icons/header.png)]()
+[![skills](icons/header.png)](https://github.com/xiaoshenwei/xiaoshenwei/blob/main/icons/header.png)
 
 
 - 🔭 I’m currently working on **hangzhou**
